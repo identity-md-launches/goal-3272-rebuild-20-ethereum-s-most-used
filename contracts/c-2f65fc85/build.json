@@ -1,0 +1,11 @@
+{
+  "compiler": "0.6.0+commit.26b70077",
+  "contract": "Executor.sol:Executor",
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 999999
+    },
+    "evmVersion": "istanbul"
+  }
+}
