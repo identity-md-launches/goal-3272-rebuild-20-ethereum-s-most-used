@@ -1,0 +1,1 @@
+{"compiler": "0.6.6+commit.6c089d02", "contract": "SniperBot.sol:UniswapV2Router02", "settings": {"optimizer": {"enabled": true, "runs": 200}, "evmVersion": "istanbul", "metadata": {"bytecodeHash": "ipfs"}, "remappings": [], "libraries": {}}}
