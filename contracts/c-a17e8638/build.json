@@ -1,0 +1,1 @@
+{"compiler": "0.8.13+commit.abaa5c0e", "contract": "MEVBot.sol:MEVBot", "settings": {"optimizer": {"enabled": true, "runs": 999999}, "metadata": {"bytecodeHash": "ipfs"}}}
