@@ -1,0 +1,14 @@
+{
+  "compiler": "0.7.6+commit.7338295f",
+  "contract": "RebuiltBot.sol:RebuiltBot",
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 1000000
+    },
+    "evmVersion": "istanbul",
+    "metadata": {
+      "bytecodeHash": "ipfs"
+    }
+  }
+}
