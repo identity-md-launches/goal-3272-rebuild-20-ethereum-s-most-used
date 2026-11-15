@@ -1,0 +1,10 @@
+{
+  "compiler": "0.8.7+commit.e28d00a7",
+  "contract": "Bot.sol:Bot",
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 999999
+    }
+  }
+}
