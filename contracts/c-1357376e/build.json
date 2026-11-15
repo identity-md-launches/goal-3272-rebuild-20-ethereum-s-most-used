@@ -1,0 +1,1 @@
+{"compiler": "0.8.7+commit.e28d00a7", "contract": "StrategyExecutor.sol:StrategyExecutor", "settings": {"optimizer": {"enabled": true, "runs": 20000}}}
