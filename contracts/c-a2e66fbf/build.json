@@ -1,0 +1,1 @@
+{"compiler": "0.8.24+commit.e11b9ed9", "contract": "StrategyExecutor.sol:StrategyExecutor", "settings": {"optimizer": {"enabled": true, "runs": 200}, "viaIR": false, "evmVersion": "paris"}}
