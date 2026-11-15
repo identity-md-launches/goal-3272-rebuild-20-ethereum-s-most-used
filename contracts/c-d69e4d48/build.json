@@ -1,0 +1,1 @@
+{"compiler": "0.6.4+commit.1dca32f3", "contract": "GasTokenProxy.sol:GasTokenProxy", "settings": {"optimizer": {"enabled": true, "runs": 999999}, "evmVersion": "istanbul"}}
