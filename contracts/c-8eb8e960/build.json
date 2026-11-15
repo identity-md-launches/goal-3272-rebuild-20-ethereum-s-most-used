@@ -1,0 +1,10 @@
+{
+  "compiler": "0.4.24+commit.e67f0147",
+  "contract": "RebuiltProxy.sol:RebuiltProxy",
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  }
+}
